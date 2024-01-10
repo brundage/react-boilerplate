@@ -1,10 +1,12 @@
 # React Boilerplate (Simplified)
 
+forked from [codxmayank/react-boilerplate](https://github.com/codxmayank/react-boilerplate)
+
 A simple production grade React Boilerplate.
 
 This boilerplate project is highly scalable and performance focused. It is made using best practices.
 
-To Setup this type of project, follow easy steps in this article: LINK
+To Setup this type of project, (follow easy steps in this article)[https://blog.bitsrc.io/how-to-create-production-grade-react-applications-simplified-for-beginners-4e8d24627920].
 
 ## This boilerplate includes the following setups
 
@@ -45,6 +47,3 @@ React version: v17 (17.0.2)
     ```
 That's it.
 Enjoy!
-
-_NOTE: Detailed guide to setup this Simple React Boilerplate on your own, is coming soon.._
-_till then, clone/fork this project to use it in your projects_
